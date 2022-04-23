@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 🌱 Future web developer
-- 🏫 Currently studying in the Full Stack Web Developer program at Business College Helsinki
+- 🏫 Studying in the Full Stack Web Developer program at Business College Helsinki
 
 ## Currently learning about :bulb::
 
