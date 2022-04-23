@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🌱 An aspiring web developer
+- 🌱 Future web developer
 - 🏫 Currently studying in the Full Stack Web Developer program at Business College Helsinki
 
 ## Currently learning about :bulb::
