@@ -1,5 +1,4 @@
 ### Hello World 👋
 
 - 🌱 An aspiring web developer
-- 🏫 Studying at Business College Helsinki
-- 🔭 Currently learning React, PHP, Symphony & SQL
+- 🏫 Currently studying in the Full Stack Web Developer program at Business College Helsinki
