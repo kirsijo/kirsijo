@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-- 🌱 Future web developer
-- 🏫 Studying in the Full Stack Web Developer program at Business College Helsinki
+- 🌱 I'm a Junior Drupal Developer from Finland 🇫🇮
+- 🏫 Graduate REACT22K Full Stack Web Developer program at Business College Helsinki
 
 ## Currently learning about :bulb::
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
